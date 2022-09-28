@@ -30,9 +30,25 @@
 ![png](img/CART_BIAC_23.png)
 ![png](img/CART_BIAC_24.png)
 ![png](img/CART_BIAC_25.png)
+
+
+영상 - [로그인](https://www.youtube.com/watch?v=FB3HWo_VUwI)/ [장바구니 담기](https://www.youtube.com/watch?v=Uyog9VcCKoo)
+
 ![png](img/CART_BIAC_26.png)
+
+
+영상 - [홈클린](https://www.youtube.com/watch?v=tU8WpO1pvoc)/ [의약외품](https://www.youtube.com/watch?v=I74UJSJpYhg)
+
 ![png](img/CART_BIAC_27.png)
+
+
+영상 - [카트 구동](https://www.youtube.com/watch?v=6ffwKqEQuaQ)
+
 ![png](img/CART_BIAC_28.png)
+
+
+영상 - [웹 구동](https://www.youtube.com/watch?v=bveiueb5vKc)
+
 ![png](img/CART_BIAC_29.png)
 ![png](img/CART_BIAC_30.png)
 ![png](img/CART_BIAC_31.png)
