@@ -1,5 +1,5 @@
 # CART BIAC - 시각 장애인을 위한 마트 쇼핑 서비스
-## - 멀티캠퍼스 융복합 프로젝트 (AI, 빅데이터, IoT, 클라우드)
+## - [멀티캠퍼스 융복합 프로젝트](https://github.com/hjst0223/info.git) ([AI](https://github.com/hjst0223/ai.git), 빅데이터, IoT, 클라우드)
 
 
 
